@@ -40,3 +40,4 @@ echo Carbon::now()->subMonth()->diffForHumans();
 //A month from now
 echo "<br>";
 echo $dt->toFormattedDateString();
+ 
